@@ -1,0 +1,5 @@
+2021-08-12 16:19:17 WARNING 'sessions.session.cookie.originalMaxAge': The mapping has a mixed field type, resulting values will use a JSON representation.
+2021-08-12 16:19:17 WARNING 'sessions.session.cookie.expires': The mapping has a mixed field type, resulting values will use a JSON representation.
+2021-08-12 16:19:17 WARNING 'sessions.session.cookie.secure': The mapping has a mixed field type, resulting values will use a JSON representation.
+2021-08-12 16:19:17 WARNING 'sessions.session.cookie.domain': The mapping has a mixed field type, resulting values will use a JSON representation.
+2021-08-12 16:19:17 WARNING 'sessions.session.cookie.sameSite': The mapping has a mixed field type, resulting values will use a JSON representation.

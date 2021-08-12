@@ -1,0 +1,115 @@
+[{
+  "_id": "IhdgwQSHTxIUUKkrASJ9Hq8sLUYF-ge3",
+  "expires": {
+    "$date": "2021-08-25T02:50:19.238Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "flash": {}
+  }
+},{
+  "_id": "BEI9EkCU4Bp9r13e-mMAhKUJuC1C0zBy",
+  "expires": {
+    "$date": "2021-08-25T16:05:24.233Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "flash": {},
+    "passport": {
+      "user": "myAdmin"
+    }
+  }
+},{
+  "_id": "IoWrlVjI1XSaPnNG_AcnYIP8_xzOBR82",
+  "expires": {
+    "$date": "2021-08-25T16:08:17.014Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "flash": {},
+    "passport": {
+      "user": "myAdmin"
+    }
+  }
+},{
+  "_id": "SvNZ4jA5qfxygw7RRW3NoVPC0blKv4Qv",
+  "expires": {
+    "$date": "2021-08-25T16:11:42.506Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "flash": {},
+    "passport": {
+      "user": "myAdmin"
+    }
+  }
+},{
+  "_id": "6tEZCfKMN2uqJZ9y6RUJtm5W6GIhHOLj",
+  "expires": {
+    "$date": "2021-08-25T16:47:40.874Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "flash": {}
+  }
+},{
+  "_id": "GXakHtIfyjgmXIW9N9Bznfpl9mw7CjnW",
+  "expires": {
+    "$date": "2021-08-26T19:34:57.550Z"
+  },
+  "session": {
+    "cookie": {
+      "originalMaxAge": null,
+      "expires": null,
+      "secure": null,
+      "httpOnly": true,
+      "domain": null,
+      "path": "/",
+      "sameSite": null
+    },
+    "flash": {},
+    "passport": {
+      "user": "chimdi"
+    }
+  }
+}]

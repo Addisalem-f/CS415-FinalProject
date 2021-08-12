@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "61154f1c0abe4b5db04a697f"
+  },
+  "date": {
+    "$date": "2021-08-12T16:31:47.240Z"
+  },
+  "text": "this looks great",
+  "author": {
+    "id": {
+      "$oid": "6113611fb39ae82a60df88f4"
+    },
+    "username": "myAdmin"
+  },
+  "book": {
+    "id": {
+      "$oid": "61154dd90abe4b5db04a697e"
+    },
+    "title": "React"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611553d40abe4b5db04a6985"
+  },
+  "date": {
+    "$date": "2021-08-12T16:31:47.240Z"
+  },
+  "text": "hgjgjghjg",
+  "author": {
+    "id": {
+      "$oid": "61136fdc71268d2970c1e693"
+    },
+    "username": "addisal"
+  },
+  "book": {
+    "id": {
+      "$oid": "6113622bb39ae82a60df88f5"
+    },
+    "title": "AngularJS"
+  },
+  "__v": 0
+}]

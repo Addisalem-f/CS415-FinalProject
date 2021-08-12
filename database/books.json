@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "61137b898deede351c9418fb"
+  },
+  "comments": [],
+  "title": "MongoDB",
+  "author": "Obinna kalu",
+  "ISBN": "48549848423",
+  "category": "Technology",
+  "stock": 1,
+  "description": "<p>&nbsp;</p>\r\n\r\n<p>It can achieve this through the use of JSON documents.<strong>MongoDB</strong>&nbsp;is also a cross platform DBMS, currently supporting Windows, Mac, Solaris, and various Linux distributions at the time of writing. A&nbsp;<strong>MongoDB</strong>&nbsp;database is different to a relational database in that,&nbsp;<strong>MongoDB</strong>&nbsp;uses a document-oriented model to store data.</p>\r\n",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6115434dde904b3530f1960d"
+  },
+  "comments": [],
+  "title": "Data Science",
+  "author": "Andiamlek",
+  "ISBN": "9374392u2955",
+  "category": "Mathematics",
+  "stock": 1,
+  "description": "<p>Data science is a &quot;concept to unify&nbsp;<a>statistics</a>,&nbsp;<a>data analysis</a>,&nbsp;<a>informatics</a>, and their related methods&quot; in order to &quot;understand and analyze actual phenomena&quot; with data.<a>[</a></p>\r\n",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61154dd90abe4b5db04a697e"
+  },
+  "comments": [
+    {
+      "$oid": "61154f1c0abe4b5db04a697f"
+    }
+  ],
+  "title": "React",
+  "author": "Assad",
+  "ISBN": "9374392u295555",
+  "category": "Technology",
+  "stock": 5,
+  "description": "<p>respond or behave in a particular way in response to something.</p>\r\n",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "611554b00abe4b5db04a6987"
+  },
+  "comments": [],
+  "title": "Ralational Databases",
+  "author": "levi",
+  "ISBN": "55421258425",
+  "category": "Technology",
+  "stock": 2,
+  "description": "<p>jhvbdfjhvbcjvbdxj</p>\r\n",
+  "__v": 0
+}]

@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "6115439dde904b3530f1960e"
+  },
+  "book_info": {
+    "issueDate": {
+      "$date": "2021-08-12T15:47:59.645Z"
+    },
+    "returnDate": {
+      "$date": "2021-08-26T15:47:59.645Z"
+    },
+    "isRenewed": true,
+    "id": {
+      "$oid": "6113622bb39ae82a60df88f5"
+    },
+    "title": "AngularJS",
+    "author": "Shresta",
+    "ISBN": "9374392u29",
+    "category": "Technology",
+    "stock": 2
+  },
+  "user_id": {
+    "id": {
+      "$oid": "61136c2971268d2970c1e68e"
+    },
+    "username": "seli"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "611555610abe4b5db04a698d"
+  },
+  "book_info": {
+    "issueDate": {
+      "$date": "2021-08-12T16:31:47.235Z"
+    },
+    "returnDate": {
+      "$date": "2021-08-26T16:31:47.235Z"
+    },
+    "isRenewed": true,
+    "id": {
+      "$oid": "6115434dde904b3530f1960d"
+    },
+    "title": "Data Science",
+    "author": "Andiamlek",
+    "ISBN": "9374392u2955",
+    "category": "Mathematics",
+    "stock": 1
+  },
+  "user_id": {
+    "id": {
+      "$oid": "611554f00abe4b5db04a6988"
+    },
+    "username": "chimdi"
+  },
+  "__v": 0
+}]
