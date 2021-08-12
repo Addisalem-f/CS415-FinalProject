@@ -45,23 +45,23 @@ Run the application
   Add new admin
    Delete currently logged in admin profile
 User module functionalities
-   Sign up
-  Login
-  Logout
-  Track own activities
-  Issue books
-  Renew books
-  Return books
-  Pay fines (not ready yet, will be added )
-  Browse books showcase
-  Add, edit and delete comment on any books comment section
-  Upload/Update profile picture
-  Update profile and password
-  Delete account
-#Browse books module functionalities
-  This module can be accessed by anyone
+   Sign up,
+  Login,
+  Logout,
+  Track own activities,
+  Issue books,
+  Renew books,
+  Return books,
+  Pay fines (not ready yet, will be added ),
+  Browse books showcase,
+  Add, edit and delete comment on any books comment section,
+  Upload/Update profile picture,
+  Update profile and password,
+  Delete account,
+#Browse books module functionalities,
+  This module can be accessed by anyone,
 
-    Show all books
+    Show all books,
    Find books on filtered search
   
   
